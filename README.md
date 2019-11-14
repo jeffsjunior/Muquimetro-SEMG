@@ -39,6 +39,7 @@ Link do Projeto: [https://github.com/jeffsjunior/Muquimetro-SEMG](https://github
 * Ruan dos Santos
 * Shyenne Souza
 
+# Desenvolvido na Universidade Federal de Sergipe
 
 
 
