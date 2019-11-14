@@ -25,5 +25,25 @@ Jefferson Silveira - descomplexando@gmail.com
 Link do Projeto: [https://github.com/jeffsjunior/Muquimetro-SEMG](https://github.com/jeffsjunior/Muquimetro-SEMG)
 
 
+## Participantes do Projeto
+* André de Andrade
+* Carlos Silva
+* Hugo Fontes
+* Lean de Oliveira
+* Lucas Castro
+* Micaelle de Souza
+* Raphael Cardoso
+* Raul de Andrade
+* Renan Sandes
+* Renato Fagundes
+* Ruan dos Santos
+* Shyenne Souza
+
+
+
+
+
+
+
 
 
