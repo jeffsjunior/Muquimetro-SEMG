@@ -22,7 +22,7 @@ Todo o material e o Muquímetro estão licenciados de acordo com TAPR Open Hardw
 
 Jefferson Silveira - descomplexando@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Link do Projeto: [https://github.com/jeffsjunior/Muquimetro-SEMG](https://github.com/jeffsjunior/Muquimetro-SEMG)
 
 
 
