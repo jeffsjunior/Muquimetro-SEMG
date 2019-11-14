@@ -15,10 +15,10 @@
 * Testes de força, exaustão e fadiga muscular
 * Fisioterapia esportiva
 
-## License
+## Licença
 Todo o material e o Muquímetro estão licenciados de acordo com TAPR Open Hardware License (OHL). O documento contendo informações a respeito da licença encontra-se no arquivo “LICENSE.pdf”.
 
-## Contact
+## Contato
 
 Jefferson Silveira - descomplexando@gmail.com
 
